@@ -2,7 +2,7 @@
 
 This repository contains examples and exercises demonstrating concepts in C, C++, and CUDA programming. Each folder covers specific topics with practical code implementations.
 
-# Repository Structure
+## Repository Structure
 01_Pointers: Examples showcasing pointer usage in C/C++.
 
 02_Custom Types: Demonstrations of custom data types like struct and enum.
